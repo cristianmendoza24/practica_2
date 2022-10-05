@@ -1,0 +1,40 @@
+header{
+    text-align: center;
+    background: rgb(143, 55, 224);
+    color: rgb(166, 233, 183);
+}
+.noticia1{
+    background-color: rgb(235, 247, 233);
+    width: 80%;
+    float: left;
+}
+.noticia2{
+    background: rgb(21, 168, 33);
+    color: rgb(228, 56, 13);
+    width: 20%;
+    float: left;
+    text-align: left;
+}
+.noticia3{
+    background: rgb(59, 88, 216);
+    float: left;
+    text-align: center;
+    width: 33.33%;
+}
+.noticia4{
+    background: rgb(26, 121, 165);
+    float: left;
+    text-align: center;
+    width: 33.33%;
+}
+.noticia5{
+    background: rgb(99, 202, 3);
+    float: left;
+    text-align: center;
+    width: 33.33%;
+}
+footer{
+    color: rgb(15, 14, 14);
+    background: red;
+    text-align: center;
+}
